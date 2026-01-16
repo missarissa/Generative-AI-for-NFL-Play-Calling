@@ -11,13 +11,12 @@ Predicting the outcome of plays in the NFL is a difficult task, but one that is 
   - project_report.pdf: This contains a complete explanation of the project as well as methods for repeatability utilizing the code. In addition their is discussion of further          improvements to this project.
 
 ## References:
-  - https://github.com/nflverse/nfl data py.
-  - doi: 10.2478/ijcss-2020-0009
+  - https://github.com/nflverse/nfl_data_py.
   - https://statsbomb.com/wp-content/uploads/2023/10/TacticalGPT-Uncovering-the-Potential-of-LLMs-for-Predicting-Tactical-Decisions-in-Professional-Football.pdf.
   - https://dl.acm.org/doi/pdf/10.1145/3606038.3616157.
   - https://medium.com/nlplanet/a-full-guide-to-finetuning-t5-for-text2text-and-building-a-demo-with-streamlit-c72009631887.
   - https://learnopencv.com/fine-tuning-t5/.
-  - https://www.tensorflow.org/tfmodels/nlp/fine tune bert.
+  - https://www.tensorflow.org/tfmodels/nlp/fine_tune_bert.
   - https://lajavaness.medium.com/multiclass-and-multilabel-text-classification-in-one-bert-model-95c54aab59dc.\
   - https://cloud.google.com/translate/docs/advanced/automl-evaluate.
   - https://www.kdnuggets.com/2023/01/micro-macro-weighted-averages-f1-score-clearly-explained.html.
